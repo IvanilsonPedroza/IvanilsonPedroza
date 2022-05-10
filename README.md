@@ -24,6 +24,6 @@
 <div>
   <a href="https://www.instagram.com/ivanteclass/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
   <a href="https://wa.me/5585994143655" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%23333?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+  <a href="pedrozaivanilson@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
   <a href="https://www.linkedin.com/in/ivanilson-pedroza-b93b911b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 </div>
