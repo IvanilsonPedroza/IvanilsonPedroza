@@ -5,8 +5,8 @@
 
 <div>
     <a href="https://github.com/IvanilsonPedroza"></a>
-    <img height = "180cm" src = "https://github-readme-stats.vercel.app/api/?username=IvanilsonPedroza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height = "180cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IvanilsonPedroza&layout=compact&langs_count=6&theme=dark"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/?username=ivanilsonpedroza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanilsonpedroza&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
 ## Skills
