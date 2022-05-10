@@ -26,4 +26,7 @@
   <a href="https://wa.me/5585994143655" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%23333?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
   <a href="https://www.linkedin.com/in/ivanilson-pedroza-b93b911b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  
+  ![snake animation](https://github.com/IvanilsonPedroza/IvanilsonPedroza/blob//output/github-contribution-grid-snake.svg)
+  
 </div>
